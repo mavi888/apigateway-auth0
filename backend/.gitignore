@@ -1,0 +1,6 @@
+packaged.yaml
+.aws-sam/
+samconfig.toml
+auth0/node_modules/
+auth0/.env
+.DS_Store
